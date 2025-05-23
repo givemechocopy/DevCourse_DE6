@@ -1,4 +1,4 @@
-![dev-thumnail-dataengineering](_img\dev-thumnail-dataengineering.png)
+# DevCourse_DE6
 
 ```mermaid
 mindmap
