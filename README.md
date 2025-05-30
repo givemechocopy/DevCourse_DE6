@@ -94,3 +94,12 @@ mindmap
     w9_
         
 ```
+
+
+
+# DE6 프로젝트 Repository
+
+-   1차 프로젝트 (25.04.21 ~ 25.04.24) : https://github.com/yoonjinnn/salexp
+-   2차 프로젝트 (25.05.15 ~ 25.05.20) : https://github.com/ssb3204/DE6-Second
+-   3차 프로젝트 (25.06.04 ~ 25.06.11) : https://github.com/Dong-yeong0/de6-project3
+-   4차 프로젝트 (최종) (25.07.01~ 25.07.28) : 
